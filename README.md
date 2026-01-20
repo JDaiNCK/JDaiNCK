@@ -23,9 +23,11 @@
   <img src="https://img.shields.io/github/stars/nel2131?label=Stars&style=flat" />
 </p>
 
+---
+
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/nel2131" target="_blank">
+<p align="center">
+  <a href="https://github.com/JDaiNCK" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/exile-jd-29a4493a7/" target="_blank">
@@ -33,5 +35,10 @@
   </a>
 </p>
 
-## 🛠️ Skills
-- **Languages**: [HTML, JavaScript, CSS]
+---
+
+## 🛠 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma"/>
+</p>
+

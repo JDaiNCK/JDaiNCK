@@ -39,6 +39,6 @@
 
 ## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma,angular,hono"/>
 </p>
 

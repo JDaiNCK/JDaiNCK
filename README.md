@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm JD :) </h1>
 
-<h3 align="center"> Your friendly Quality Assurance | Video Game Beta Tester </h3>
+<h3 align="center"> Your friendly Quality Assurance | Video Game Alpha/Beta Tester </h3>
 
 <p align="center">
   🌱 Java, Python, Svelte <br/>

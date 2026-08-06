@@ -18,7 +18,7 @@
 
 ```yaml
 Name: JD
-Role: Quality Assurance Engineer
+Role: Quality Assurance
 
 Experience:
   - Website Process Testing
